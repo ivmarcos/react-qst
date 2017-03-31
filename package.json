@@ -1,6 +1,6 @@
 {
-  "name": "qst",
-  "version": "0.0.2",
+  "name": "react-qst",
+  "version": "0.0.3",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --progress --inline --hot",
